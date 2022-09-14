@@ -1,0 +1,9 @@
+C:\Source\Git\PrivateTest\WinForm1\bin\Debug\WinForm1.exe.config
+C:\Source\Git\PrivateTest\WinForm1\bin\Debug\WinForm1.exe
+C:\Source\Git\PrivateTest\WinForm1\bin\Debug\WinForm1.pdb
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.csproj.AssemblyReference.cache
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.Properties.Resources.resources
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.csproj.GenerateResource.cache
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.csproj.CoreCompileInputs.cache
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.exe
+C:\Source\Git\PrivateTest\WinForm1\obj\Debug\WinForm1.pdb
